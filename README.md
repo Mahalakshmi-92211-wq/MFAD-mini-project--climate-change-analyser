@@ -82,7 +82,7 @@ Climate-Change-Analyzer/
 
 *Note: The Python filename can be adjusted to match the actual filename in the repository.*
 
-## ⚙️ Installation and Execution
+## Installation and Execution
 
 ### Prerequisites
 
@@ -113,7 +113,7 @@ pip install numpy pandas matplotlib
 python climate_change_analyzer.py
 ```
 
-## 📋 Available Operations
+## Available Operations
 
 The interactive terminal menu provides the following options:
 
